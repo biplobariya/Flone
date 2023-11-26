@@ -1,0 +1,25 @@
+{
+  "name": "flone",
+  "version": "1.0.0",
+  "description": "Flone is a E-commerce project. This project inspired from stack learner web master course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass --watch assets/scss/main.scss assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biplobariya/Flone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biplobariya/Flone/issues"
+  },
+  "homepage": "https://github.com/biplobariya/Flone#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "sass": "^1.69.5"
+  }
+}
